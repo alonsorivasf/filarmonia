@@ -1,2 +1,2 @@
-# ds-app
- Aplicación para donación de sangre
+# Filarmonía
+ Aplicación para gestión de becarios e instrumental de Filarmonía Vallesana
